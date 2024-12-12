@@ -4,3 +4,4 @@ Supplemental material of the papers that disappear from university and research 
 * [Active Reading of Visualizations](/Active-Reading-of-Visualizations/)
 * [Comparing excel tiles](/Comparing-excel-tiles/)
 * [Data-Sketching](/Data-Sketching/)
+* [Constructing Visual Representations: Investigating the Use of Tangible Tokens](/Constructing/)
